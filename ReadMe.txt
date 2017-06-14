@@ -1,6 +1,6 @@
 Instrucciones para desplegar el proyecto localmente.
 
-Desacargar Node Js en su versión más estable (esto lo puede hacer dirigiendose al siguiente enlace: https://nodejs.org/es/download/), descargar también el proyecto de GitHub en el siguiente enlace: 
+Desacargar Node Js en su versión más estable (esto lo puede hacer dirigiendose al siguiente enlace: https://nodejs.org/es/download/), descargar también el proyecto de GitHub en el siguiente enlace: https://github.com/juliandiaz1998/Woodstoock_concert#woodstoock_concert.
 Entrar por linea de comandos (CMD) al directorio raiz del disco en donde se haya instalado el Node Js en el paso anterior (por lo general el disco C), esto se puede realizar pegando en la linea de comandos estas instrucciónes. 
   a)C: Para dirigirse al disco C, omitir este si ya esta ahí. 
   b)cd \ Para diridirse al directorio raiz del disco actual.
